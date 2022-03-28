@@ -1,0 +1,13 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\bin\Debug\netcoreapp3.1\Saida.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Saida\Saida\obj\Debug\netcoreapp3.1\Saida.genruntimeconfig.cache
