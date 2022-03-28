@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\bin\Debug\netcoreapp3.1\Operadores_aritmeticos.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_aritmeticos\obj\Debug\netcoreapp3.1\Operadores_aritmeticos.genruntimeconfig.cache

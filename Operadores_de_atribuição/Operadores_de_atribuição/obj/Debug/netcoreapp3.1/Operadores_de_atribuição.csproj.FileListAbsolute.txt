@@ -11,3 +11,4 @@ C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribu
 C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_de_atribuição\obj\Debug\netcoreapp3.1\Operadores_de_atribuição.dll
 C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_de_atribuição\obj\Debug\netcoreapp3.1\Operadores_de_atribuição.pdb
 C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_de_atribuição\obj\Debug\netcoreapp3.1\Operadores_de_atribuição.genruntimeconfig.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores_de_atribuição\Operadores_de_atribuição\obj\Debug\netcoreapp3.1\Operadores_de_atribuição.csproj.AssemblyReference.cache
