@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\bin\Debug\netcoreapp3.1\Entrada1.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Entrada\obj\Debug\netcoreapp3.1\Entrada1.genruntimeconfig.cache

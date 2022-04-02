@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Entrada\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
