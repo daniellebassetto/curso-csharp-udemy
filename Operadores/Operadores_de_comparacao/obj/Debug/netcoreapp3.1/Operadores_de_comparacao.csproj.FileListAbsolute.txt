@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\bin\Debug\netcoreapp3.1\Operadores_de_comparacao.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_de_comparacao\obj\Debug\netcoreapp3.1\Operadores_de_comparacao.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danib\\source\\repos\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danib\\source\\repos\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danib\\source\\repos\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\danib\\source\\repos\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\ExerciciosPropostosEstruturaSequencial\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\danib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danib\\source\\repos\\ExerciciosPropostosEstruturaSequencial\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\ExerciciosPropostosEstruturaSequencial\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

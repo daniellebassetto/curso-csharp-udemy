@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores_de_atribuição\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj": {}
+    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores_de_atribuição\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj": {
+    "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores_de_atribuição\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj",
+        "projectUniqueName": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj",
         "projectName": "Operadores_de_atribuição",
-        "projectPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores_de_atribuição\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj",
+        "projectPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores\\Operadores_de_atribuição\\Operadores_de_atribuição.csproj",
         "packagesPath": "C:\\Users\\danib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores_de_atribuição\\Operadores_de_atribuição\\obj\\",
+        "outputPath": "C:\\Users\\danib\\OneDrive\\Documentos\\Visual Studio 2019\\Curso\\Operadores\\Operadores_de_atribuição\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

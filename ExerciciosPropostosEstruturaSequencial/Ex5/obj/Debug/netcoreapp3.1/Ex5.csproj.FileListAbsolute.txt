@@ -1,0 +1,13 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturaSequencial\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache

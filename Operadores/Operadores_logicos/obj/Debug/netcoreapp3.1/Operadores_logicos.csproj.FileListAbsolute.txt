@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\bin\Debug\netcoreapp3.1\Operadores_logicos.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Operadores\Operadores_logicos\obj\Debug\netcoreapp3.1\Operadores_logicos.genruntimeconfig.cache
