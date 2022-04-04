@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\bin\Debug\netcoreapp3.1\Ex1_for.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.csproj.AssemblyReference.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex1_for\obj\Debug\netcoreapp3.1\Ex1_for.genruntimeconfig.cache

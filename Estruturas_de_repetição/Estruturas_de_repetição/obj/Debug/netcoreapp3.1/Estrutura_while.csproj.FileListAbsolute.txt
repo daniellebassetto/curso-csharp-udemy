@@ -1,0 +1,14 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\bin\Debug\netcoreapp3.1\Estrutura_while.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.genruntimeconfig.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\Estruturas_de_repetição\Estruturas_de_repetição\obj\Debug\netcoreapp3.1\Estrutura_while.csproj.AssemblyReference.cache

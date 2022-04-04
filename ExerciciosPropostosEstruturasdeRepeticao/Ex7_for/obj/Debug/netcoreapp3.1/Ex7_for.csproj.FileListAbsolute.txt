@@ -1,0 +1,13 @@
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.exe
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.deps.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.runtimeconfig.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.runtimeconfig.dev.json
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\bin\Debug\netcoreapp3.1\Ex7_for.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.AssemblyInfoInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.AssemblyInfo.cs
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.csproj.CoreCompileInputs.cache
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.dll
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.pdb
+C:\Users\danib\OneDrive\Documentos\Visual Studio 2019\Curso\ExerciciosPropostosEstruturasdeRepeticao\Ex7_for\obj\Debug\netcoreapp3.1\Ex7_for.genruntimeconfig.cache
